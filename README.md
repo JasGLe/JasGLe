@@ -1,5 +1,7 @@
 <div align="center">
 
+<div align="center">
+<h1 align="center">
 ```
    ██╗ █████╗ ███████╗███████╗███████╗██████╗
    ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
@@ -8,6 +10,7 @@
 ╚█████╔╝██║  ██║███████║███████║███████╗██║  ██║
  ╚════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
+</h1>
 
 ### `< Full-Stack Engineer />` · `[ CS Student ]` · `{ Open to Collaborate }`
 
@@ -63,7 +66,7 @@ const jasser = {
 
 [![Skills](https://skillicons.dev/icons?i=figma,ps,illustrator)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=git,github,notion,postman,eslint)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,notion,postman,vscode,linux)](https://skillicons.dev)
 
 </div>
 
@@ -73,11 +76,11 @@ const jasser = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JasGLe&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JasGLe&theme=react-dark&hide_border=false&area=true)
 
 ![Streak](https://nirzak-streak-stats.vercel.app/?user=JasGLe&theme=ocean_dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JasGLe&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 </div>
 
