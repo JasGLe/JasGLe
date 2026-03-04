@@ -1,16 +1,9 @@
 <div align="center">
 
-<div align="center">
-<h1 align="center">
-```
-   ██╗ █████╗ ███████╗███████╗███████╗██████╗
-   ██║██╔══██╗██╔════╝██╔════╝██╔════╝██╔══██╗
-   ██║███████║███████╗███████╗█████╗  ██████╔╝
-██ ██║██╔══██║╚════██║╚════██║██╔══╝  ██╔══██╗
-╚█████╔╝██║  ██║███████║███████║███████╗██║  ██║
- ╚════╝ ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
-```
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=const+dev+%3D+%22Jasser%22;Full-Stack+Engineer+%7C+CS+Student." alt="Typing SVG" />
+</p>
+
 
 ### `< Full-Stack Engineer />` · `[ CS Student ]` · `{ Open to Collaborate }`
 
