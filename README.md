@@ -71,7 +71,6 @@ const jasser = {
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JasGLe&theme=react-dark&hide_border=false&area=true)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=JasGLe&theme=ocean_dark&hide_border=false)
 
 
 
